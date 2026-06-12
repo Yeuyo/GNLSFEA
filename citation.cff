@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wong"
+  given-names: "Yew Yan"
+  orcid: "https://orcid.org/0000-0001-6557-4492"
+title: "A Compact Geometrically Nonlinear FE Shell Code for Cardiac Analysis: Shell Formulation"
+version: 1.0.0
+date-released: 2018-06-11
+url: "https://openaccess.city.ac.uk/id/eprint/21907/"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Wong"
+      given-names: "Yew Yan"
+  title: "A Compact Geometrically Nonlinear FE Shell Code for Cardiac Analysis: Shell Formulation"
+  collection-title: "6th European Conference on Computational Mechanics"
+  year: 2018
+  month: 6
+  doi: "10.5281/zenodo.20651839"
